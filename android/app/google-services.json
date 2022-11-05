@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "882205340817",
+    "project_id": "asesmen-e9d46",
+    "storage_bucket": "asesmen-e9d46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882205340817:android:887a80a08d673051027b30",
+        "android_client_info": {
+          "package_name": "com.example.asesmen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882205340817-jufnk5hnq6hoq6ipcv049c0pnooljon4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx5D8yV_pozkc7sE0u2TjEUfSD0Y8S288"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882205340817-jufnk5hnq6hoq6ipcv049c0pnooljon4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
